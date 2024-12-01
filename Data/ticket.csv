@@ -1,0 +1,11 @@
+﻿ticket_number,ticket_date,ticket_seat ,ticket_class,passnger_name,passnger_sex
+10,12/20/2022,a1,business,jhon,M
+20,12/23/2022,a32,first class,david,M
+30,12/24/2022,j25,economy,simon,M
+40,12/25/2022,c33,first class,jack,M
+50,12/28/2022,f24,economy,maria,F
+60,12/20/2022,j31,business,mohamed,M
+70,12/29/2022,c23,business,ramadan,M
+80,12/26/2022,l18,economy,ali,M
+90,12/26/2022,i40,first class,abdelrahman,M
+100,12/26/2022,b30,economy,nora,F

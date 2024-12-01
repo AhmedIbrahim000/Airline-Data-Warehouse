@@ -1,0 +1,11 @@
+﻿flight_number,departure_city,arrival_city,departure_date,departure_time,arrival_date,arival_time
+301,NEW YORK,LONDON,12/20/2022,17:30,12/20/2022,19:30
+302,san francisco,NEW YORK,12/23/2022,1:00,12/20/2022,9:30
+303,cairo,LONDON,12/24/2022,17:30,12/24/2022,9:30
+304,cairo,LONDON,12/25/2022,12:30,12/25/2022,15:30
+305,roma,manchester,12/28/2022,10:30,12/28/2022,12:30
+306,dubai,cairo,12/20/2022,6:30,12/20/2022,8:30
+307,cairo,istanbol,12/29/2022,11:00,12/29/2022,13:30
+308,istanbol,manchester,12/26/2022,8:45,12/26/2022,10:05
+309,manchester,paris,12/26/2022,19:30,12/26/2022,22:00
+310,doha,puenos aires,12/26/2022,2:25,12/25/2022,22:25
